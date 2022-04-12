@@ -39,30 +39,30 @@ export const SliderData = [
     
 ];
 
-export const SliderDataTwo= [
-    {
-        title:'House in Las Vegas, Nevada',
-        price: '8,280,000',
-        path: '/homes',
-        label:'View Home',
-        image: ImageFive,
-        alt: 'House'
-    },
+// export const SliderDataTwo= [
+//     {
+//         title:'House in Las Vegas, Nevada',
+//         price: '8,280,000',
+//         path: '/homes',
+//         label:'View Home',
+//         image: ImageFive,
+//         alt: 'House'
+//     },
     
-    {
-        title:'House in Houston, Texas',
-        price: '8,420,000',
-        path: '/homes',
-        label:'View Home',
-        image: ImageSix,
-        alt: 'House'
-    },
-    {
-        title:'House in Alajuela, Costa Rica',
-        price: '5,420,000',
-        path: '/homes',
-        label:'View Home',
-        image: ImageSeven,
-        alt: 'House'
-    },
-]
+//     {
+//         title:'House in Houston, Texas',
+//         price: '8,420,000',
+//         path: '/homes',
+//         label:'View Home',
+//         image: ImageSix,
+//         alt: 'House'
+//     },
+//     {
+//         title:'House in Alajuela, Costa Rica',
+//         price: '5,420,000',
+//         path: '/homes',
+//         label:'View Home',
+//         image: ImageSeven,
+//         alt: 'House'
+//     },
+// ]
