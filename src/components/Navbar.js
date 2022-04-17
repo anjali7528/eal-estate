@@ -68,11 +68,11 @@ margin-right:24px;
 }
 `;
 
-function Navbar() {
+const Navbar = ({toggle}) => {
   return (
     <Nav>
         <Logo to="/">ELIXR</Logo>
-        <Menubar/>
+        <Menubar onClick={toggle} />
         <NavMenu>
              {menuData.map((item,index) => (
                  <NavMenuLinks to={item.link} key={index}>
